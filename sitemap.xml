@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/</loc>
+    <loc>http://v.donghongfei.com/dull-day-3/</loc>
     
     <lastmod>2015-07-08</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://v.donghongfei.com/dull-day-2/</loc>
+    <loc>http://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/</loc>
     
     <lastmod>2015-07-08</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://v.donghongfei.com/dull-day-3/</loc>
+    <loc>http://v.donghongfei.com/dull-day-2/</loc>
     
     <lastmod>2015-07-08</lastmod>
     
@@ -219,6 +219,15 @@
   
   <url>
     <loc>http://v.donghongfei.com/dull-day-4/</loc>
+    
+    <lastmod>2015-07-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://v.donghongfei.com/handling-cors-issues-in-ionic/</loc>
     
     <lastmod>2015-07-08</lastmod>
     
@@ -237,15 +246,6 @@
   
   <url>
     <loc>http://v.donghongfei.com/navigating-the-changes/</loc>
-    
-    <lastmod>2015-07-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://v.donghongfei.com/handling-cors-issues-in-ionic/</loc>
     
     <lastmod>2015-07-08</lastmod>
     
@@ -277,6 +277,13 @@
   </url>
   
   <url>
+    <loc>http://v.donghongfei.com/tags/%E8%B6%B3%E7%90%83/</loc>
+    <lastmod>2024-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://v.donghongfei.com/tags/%E5%BC%A0%E5%B0%8F%E9%BE%99-%E9%A5%AD%E5%90%A6%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2024-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -284,7 +291,14 @@
   </url>
   
   <url>
-    <loc>http://v.donghongfei.com/tags/%E8%B6%B3%E7%90%83/</loc>
+    <loc>http://v.donghongfei.com/tags/python/</loc>
+    <lastmod>2024-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://v.donghongfei.com/tags/%E5%AD%A6%E7%82%B9%E5%84%BF%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2024-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -313,20 +327,6 @@
   
   <url>
     <loc>http://v.donghongfei.com/tags/%E5%86%B7%E7%AC%91%E8%AF%9D%E7%B2%BE%E9%80%89/</loc>
-    <lastmod>2024-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://v.donghongfei.com/tags/python/</loc>
-    <lastmod>2024-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://v.donghongfei.com/tags/%E5%AD%A6%E7%82%B9%E5%84%BF%E4%BB%A3%E7%A0%81/</loc>
     <lastmod>2024-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
