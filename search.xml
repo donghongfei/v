@@ -128,6 +128,12 @@
       </tags>
   </entry>
   <entry>
+    <title>春雨医生产品分析报告</title>
+    <url>/chunyuyisheng-product-analysis-report/</url>
+    <content><![CDATA[<p>占坑儿</p>
+]]></content>
+  </entry>
+  <entry>
     <title>平淡的一天(1)</title>
     <url>/dull-day-1/</url>
     <content><![CDATA[<p>“波噜波噜波噜波噜，波噜波噜波噜波噜…”</p>
@@ -140,22 +146,6 @@
 <p>　　“It’s our party we can do what we want, It’s our party we can say what we want……”</p>
 <p>　　一路小跑，穿越了mount people mount sea之后爬上站台，哈哈，刚刚好，箭步冲进地铁的那一刹那身后响起了关门声。</p>
 <p>　　但是，在抬起头的一瞬间，我可以赌上腹肌发誓，我绝对看到了这个世界上最美的风景。</p>
-<p>　　……</p>
-<p>　　(未完待续)</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>平淡的一天(2)</title>
-    <url>/dull-day-2/</url>
-    <content><![CDATA[<p>好漂亮的眼睛！</p>
-<p>口罩遮住了大半张脸，却无法遮住那份美丽和灵动！</p>
-<p>两弯似蹙非蹙罥烟眉,一双似喜非喜含情目。</p>
-<span id="more"></span>
-<p>短暂的大脑空白之后，突然意识到该说点儿什么或做点儿什么。</p>
-<p>听过见过想象过的各种桥段一个一个在脑海中闪现，又一个一个Pass掉，电光火石间进行着天人交战。</p>
-<p>突然感觉被人撞了一下，NMB，心中默念三字经，不爽的扭过头，但扭过来只够看到对方胸大肌的时候，放弃了仰视下是什么鸟人的想法，同时豁达的原谅了他的不礼貌。</p>
-<p>地铁就是这样神奇的一个地方，总会在你觉得挤满了的时候，又能挤进来一拨人。所以被从莫名其妙的地方冒出来个人挤一下一点儿也不会觉得莫名其妙。</p>
-<p>电光火石间调整好心态，却发现，姑娘不见了…</p>
 <p>　　……</p>
 <p>　　(未完待续)</p>
 ]]></content>
@@ -186,12 +176,6 @@
 <p>“…前方到站霍营站，下车的乘客请准备…”</p>
 <p>……</p>
 <p>(未完待续)</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>春雨医生产品分析报告</title>
-    <url>/chunyuyisheng-product-analysis-report/</url>
-    <content><![CDATA[<p>占坑儿</p>
 ]]></content>
   </entry>
   <entry>
@@ -237,6 +221,38 @@
 ]]></content>
   </entry>
   <entry>
+    <title>平淡的一天(2)</title>
+    <url>/dull-day-2/</url>
+    <content><![CDATA[<p>好漂亮的眼睛！</p>
+<p>口罩遮住了大半张脸，却无法遮住那份美丽和灵动！</p>
+<p>两弯似蹙非蹙罥烟眉,一双似喜非喜含情目。</p>
+<span id="more"></span>
+<p>短暂的大脑空白之后，突然意识到该说点儿什么或做点儿什么。</p>
+<p>听过见过想象过的各种桥段一个一个在脑海中闪现，又一个一个Pass掉，电光火石间进行着天人交战。</p>
+<p>突然感觉被人撞了一下，NMB，心中默念三字经，不爽的扭过头，但扭过来只够看到对方胸大肌的时候，放弃了仰视下是什么鸟人的想法，同时豁达的原谅了他的不礼貌。</p>
+<p>地铁就是这样神奇的一个地方，总会在你觉得挤满了的时候，又能挤进来一拨人。所以被从莫名其妙的地方冒出来个人挤一下一点儿也不会觉得莫名其妙。</p>
+<p>电光火石间调整好心态，却发现，姑娘不见了…</p>
+<p>　　……</p>
+<p>　　(未完待续)</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>首先是个产品</title>
+    <url>/first-of-all-i-am-pm/</url>
+    <content><![CDATA[<blockquote>
+<p>我是产品，我是产品，我是产品。</p>
+</blockquote>
+<span id="more"></span>
+
+
+<p>经历了好几天开会撕逼后，项目终于缓缓进入了开发阶段。<br>#问题&amp;思考<br>从之前升级分诊功能，到后面问诊运营修复bug，再到现在系统升级，以产品角色参与其中，中间走了挺多弯路的。  </p>
+<p>我想问题还是出在自己并没有完全的站在一个产品的角度去做每件事情，作为一个产品，更多地应该是从解决实际问题出发，而不是让之前作为程序员的角色思维过多影响到自己。  </p>
+<p>我觉得产品应该是团队的核心，从需求采集到方案设计再到实施上线，一个优秀的产品在这个过程中应该起到主导作用。</p>
+<p>而在这段时间的工作中，可能对开发工作相对比较熟悉，在与开发同学讨论需求时候会过多的去想一些方案的具体实现，会过多的干预到开发同学实现方案的制定上，而在产品应该发挥作用的地方并没有完全hold住，比如流程的梳理、功能的设计、对用户需求的挖掘、对项目整体的把控，结果就导致在讨论具体开发开发方案时比较混乱，而在涉及到产品层面的东西时，自己还是做不到完全心里有底。</p>
+<p>捡了芝麻丢了西瓜的感觉，一定得记着，首先是个产品~~~</p>
+]]></content>
+  </entry>
+  <entry>
     <title>足球场不同位置职责</title>
     <url>/football-field-different-position-description/</url>
     <content><![CDATA[<blockquote>
@@ -262,22 +278,6 @@
       <tags>
         <tag>足球</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>首先是个产品</title>
-    <url>/first-of-all-i-am-pm/</url>
-    <content><![CDATA[<blockquote>
-<p>我是产品，我是产品，我是产品。</p>
-</blockquote>
-<span id="more"></span>
-
-
-<p>经历了好几天开会撕逼后，项目终于缓缓进入了开发阶段。<br>#问题&amp;思考<br>从之前升级分诊功能，到后面问诊运营修复bug，再到现在系统升级，以产品角色参与其中，中间走了挺多弯路的。  </p>
-<p>我想问题还是出在自己并没有完全的站在一个产品的角度去做每件事情，作为一个产品，更多地应该是从解决实际问题出发，而不是让之前作为程序员的角色思维过多影响到自己。  </p>
-<p>我觉得产品应该是团队的核心，从需求采集到方案设计再到实施上线，一个优秀的产品在这个过程中应该起到主导作用。</p>
-<p>而在这段时间的工作中，可能对开发工作相对比较熟悉，在与开发同学讨论需求时候会过多的去想一些方案的具体实现，会过多的干预到开发同学实现方案的制定上，而在产品应该发挥作用的地方并没有完全hold住，比如流程的梳理、功能的设计、对用户需求的挖掘、对项目整体的把控，结果就导致在讨论具体开发开发方案时比较混乱，而在涉及到产品层面的东西时，自己还是做不到完全心里有底。</p>
-<p>捡了芝麻丢了西瓜的感觉，一定得记着，首先是个产品~~~</p>
-]]></content>
   </entry>
   <entry>
     <title>解决 ionic 中的 CORS 问题【译】</title>
@@ -358,6 +358,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>请用一张图证明你看过《深入浅出数据分析》</title>
+    <url>/head-first-data-analysis/</url>
+    <content><![CDATA[<p>大图预警</p>
+<span id="more"></span>
+
+<p><img data-src="/images/20150721/head-first-data-analysis.png" alt="职责图"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>压缩你的Ionic App源码【译】</title>
     <url>/minifying-your-source-code/</url>
     <content><![CDATA[<p><em>译者注：本人翻译功力有限，所以文中难免有翻译不准确的地方，凑合看吧，牛逼的话你看<a href="http://ionicframework.com/blog/minifying-your-source-code/">英文版</a>的去，完事儿欢迎回来指正交流（^_^）。</em></p>
@@ -397,15 +406,6 @@
     <title>搬家了</title>
     <url>/move-on/</url>
     <content><![CDATA[<p>搬家了，原来用的 wordpress，一点都不酷，内容也都是东朝西摘的，一点都不酷，所以这把搞个酷酷的~<br>安装参考:<a href="http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/">http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>请用一张图证明你看过《深入浅出数据分析》</title>
-    <url>/head-first-data-analysis/</url>
-    <content><![CDATA[<p>大图预警</p>
-<span id="more"></span>
-
-<p><img data-src="/images/20150721/head-first-data-analysis.png" alt="职责图"></p>
 ]]></content>
   </entry>
   <entry>
@@ -574,6 +574,15 @@
       </tags>
   </entry>
   <entry>
+    <title>2019年中总结</title>
+    <url>//2019/2019-07-21/</url>
+    <content><![CDATA[<p>总啥结啊总</p>
+]]></content>
+      <tags>
+        <tag>总结</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>第一份儿产品经理工作总结</title>
     <url>/something-i-was-thinking/</url>
     <content><![CDATA[<blockquote>
@@ -618,15 +627,6 @@
 <p>天上绝逼不会掉馅饼！！！</p>
 <p>不要丧失了理智！！！</p>
 <h1 id="第七天"><a href="#第七天" class="headerlink" title="第七天"></a>第七天</h1>]]></content>
-  </entry>
-  <entry>
-    <title>2019年中总结</title>
-    <url>//2019/2019-07-21/</url>
-    <content><![CDATA[<p>总啥结啊总</p>
-]]></content>
-      <tags>
-        <tag>总结</tag>
-      </tags>
   </entry>
   <entry>
     <title>2018年年不初年不中年不终的总结</title>
