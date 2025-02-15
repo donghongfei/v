@@ -3,11 +3,11 @@
   <title>小学生·董宏飞</title>
   
   
-  <link href="http://v.donghongfei.com/atom.xml" rel="self"/>
+  <link href="https://v.donghongfei.com/atom.xml" rel="self"/>
   
-  <link href="http://v.donghongfei.com/"/>
+  <link href="https://v.donghongfei.com/"/>
   <updated>2025-02-15T03:41:51.245Z</updated>
-  <id>http://v.donghongfei.com/</id>
+  <id>https://v.donghongfei.com/</id>
   
   <author>
     <name>小学生·董宏飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Understanding Reasoning LLMs【译】</title>
-    <link href="http://v.donghongfei.com/Understanding%20Reasoning%20LLMs%E3%80%90%E8%AF%91%E3%80%91/"/>
-    <id>http://v.donghongfei.com/Understanding%20Reasoning%20LLMs%E3%80%90%E8%AF%91%E3%80%91/</id>
+    <link href="https://v.donghongfei.com/Understanding%20Reasoning%20LLMs%E3%80%90%E8%AF%91%E3%80%91/"/>
+    <id>https://v.donghongfei.com/Understanding%20Reasoning%20LLMs%E3%80%90%E8%AF%91%E3%80%91/</id>
     <published>2025-02-15T03:16:00.000Z</published>
     <updated>2025-02-15T03:41:51.245Z</updated>
     
@@ -37,16 +37,16 @@
     
     
     
-    <category term="AI" scheme="http://v.donghongfei.com/tags/AI/"/>
+    <category term="AI" scheme="https://v.donghongfei.com/tags/AI/"/>
     
-    <category term="翻译" scheme="http://v.donghongfei.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    <category term="翻译" scheme="https://v.donghongfei.com/tags/%E7%BF%BB%E8%AF%91/"/>
     
   </entry>
   
   <entry>
     <title>批量下载飞书wiki文档</title>
-    <link href="http://v.donghongfei.com/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E9%A3%9E%E4%B9%A6wiki%E6%96%87%E6%A1%A3/"/>
-    <id>http://v.donghongfei.com/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E9%A3%9E%E4%B9%A6wiki%E6%96%87%E6%A1%A3/</id>
+    <link href="https://v.donghongfei.com/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E9%A3%9E%E4%B9%A6wiki%E6%96%87%E6%A1%A3/"/>
+    <id>https://v.donghongfei.com/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD%E9%A3%9E%E4%B9%A6wiki%E6%96%87%E6%A1%A3/</id>
     <published>2025-02-06T09:16:00.000Z</published>
     <updated>2025-02-06T12:02:53.373Z</updated>
     
@@ -66,14 +66,14 @@
     
     
     
-    <category term="AI" scheme="http://v.donghongfei.com/tags/AI/"/>
+    <category term="AI" scheme="https://v.donghongfei.com/tags/AI/"/>
     
   </entry>
   
   <entry>
     <title>2019年中总结</title>
-    <link href="http://v.donghongfei.com/2019/2019-07-21/"/>
-    <id>http://v.donghongfei.com/2019/2019-07-21/</id>
+    <link href="https://v.donghongfei.com/2019/2019-07-21/"/>
+    <id>https://v.donghongfei.com/2019/2019-07-21/</id>
     <published>2019-07-21T10:31:04.000Z</published>
     <updated>2025-02-06T10:26:47.282Z</updated>
     
@@ -89,14 +89,14 @@
     
     
     
-    <category term="总结" scheme="http://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>2018年年不初年不中年不终的总结</title>
-    <link href="http://v.donghongfei.com/2018/2018-09-01/"/>
-    <id>http://v.donghongfei.com/2018/2018-09-01/</id>
+    <link href="https://v.donghongfei.com/2018/2018-09-01/"/>
+    <id>https://v.donghongfei.com/2018/2018-09-01/</id>
     <published>2018-09-01T11:12:35.000Z</published>
     <updated>2021-11-21T14:26:09.000Z</updated>
     
@@ -112,14 +112,14 @@
     
     
     
-    <category term="总结" scheme="http://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>虚度的国庆节</title>
-    <link href="http://v.donghongfei.com/the-day-i-lost-in-10-1-days/"/>
-    <id>http://v.donghongfei.com/the-day-i-lost-in-10-1-days/</id>
+    <link href="https://v.donghongfei.com/the-day-i-lost-in-10-1-days/"/>
+    <id>https://v.donghongfei.com/the-day-i-lost-in-10-1-days/</id>
     <published>2016-10-06T15:04:43.000Z</published>
     <updated>2021-10-31T15:04:18.000Z</updated>
     
@@ -135,8 +135,8 @@
   
   <entry>
     <title>第一份儿产品经理工作总结</title>
-    <link href="http://v.donghongfei.com/something-i-was-thinking/"/>
-    <id>http://v.donghongfei.com/something-i-was-thinking/</id>
+    <link href="https://v.donghongfei.com/something-i-was-thinking/"/>
+    <id>https://v.donghongfei.com/something-i-was-thinking/</id>
     <published>2016-10-03T18:05:33.000Z</published>
     <updated>2021-10-31T15:04:43.000Z</updated>
     
@@ -150,14 +150,14 @@
     
     
     
-    <category term="总结" scheme="http://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://v.donghongfei.com/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>张小龙饭否日记</title>
-    <link href="http://v.donghongfei.com/zhangxiaolong-fanfou-diary/"/>
-    <id>http://v.donghongfei.com/zhangxiaolong-fanfou-diary/</id>
+    <link href="https://v.donghongfei.com/zhangxiaolong-fanfou-diary/"/>
+    <id>https://v.donghongfei.com/zhangxiaolong-fanfou-diary/</id>
     <published>2016-01-31T12:00:17.000Z</published>
     <updated>2018-09-01T11:25:53.000Z</updated>
     
@@ -172,14 +172,14 @@
     
     
     
-    <category term="张小龙 饭否日记" scheme="http://v.donghongfei.com/tags/%E5%BC%A0%E5%B0%8F%E9%BE%99-%E9%A5%AD%E5%90%A6%E6%97%A5%E8%AE%B0/"/>
+    <category term="张小龙 饭否日记" scheme="https://v.donghongfei.com/tags/%E5%BC%A0%E5%B0%8F%E9%BE%99-%E9%A5%AD%E5%90%A6%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>一篇流水账</title>
-    <link href="http://v.donghongfei.com/a-running-account/"/>
-    <id>http://v.donghongfei.com/a-running-account/</id>
+    <link href="https://v.donghongfei.com/a-running-account/"/>
+    <id>https://v.donghongfei.com/a-running-account/</id>
     <published>2015-09-18T15:12:36.000Z</published>
     <updated>2018-09-01T12:37:21.000Z</updated>
     
@@ -192,14 +192,14 @@
     
     
     
-    <category term="产品经理 流水账 第一个项目" scheme="http://v.donghongfei.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E6%B5%81%E6%B0%B4%E8%B4%A6-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE/"/>
+    <category term="产品经理 流水账 第一个项目" scheme="https://v.donghongfei.com/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86-%E6%B5%81%E6%B0%B4%E8%B4%A6-%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE/"/>
     
   </entry>
   
   <entry>
     <title>首先是个产品</title>
-    <link href="http://v.donghongfei.com/first-of-all-i-am-pm/"/>
-    <id>http://v.donghongfei.com/first-of-all-i-am-pm/</id>
+    <link href="https://v.donghongfei.com/first-of-all-i-am-pm/"/>
+    <id>https://v.donghongfei.com/first-of-all-i-am-pm/</id>
     <published>2015-09-16T15:55:03.000Z</published>
     <updated>2016-09-17T07:37:49.000Z</updated>
     
@@ -217,8 +217,8 @@
   
   <entry>
     <title>初见Python</title>
-    <link href="http://v.donghongfei.com/%E5%88%9D%E8%A7%81Python/"/>
-    <id>http://v.donghongfei.com/%E5%88%9D%E8%A7%81Python/</id>
+    <link href="https://v.donghongfei.com/%E5%88%9D%E8%A7%81Python/"/>
+    <id>https://v.donghongfei.com/%E5%88%9D%E8%A7%81Python/</id>
     <published>2015-09-05T10:02:09.000Z</published>
     <updated>2016-09-17T07:47:59.000Z</updated>
     
@@ -232,16 +232,16 @@
     
     
     
-    <category term="python" scheme="http://v.donghongfei.com/tags/python/"/>
+    <category term="python" scheme="https://v.donghongfei.com/tags/python/"/>
     
-    <category term="学点儿代码" scheme="http://v.donghongfei.com/tags/%E5%AD%A6%E7%82%B9%E5%84%BF%E4%BB%A3%E7%A0%81/"/>
+    <category term="学点儿代码" scheme="https://v.donghongfei.com/tags/%E5%AD%A6%E7%82%B9%E5%84%BF%E4%BB%A3%E7%A0%81/"/>
     
   </entry>
   
   <entry>
     <title>请用一张图证明你看过《深入浅出数据分析》</title>
-    <link href="http://v.donghongfei.com/head-first-data-analysis/"/>
-    <id>http://v.donghongfei.com/head-first-data-analysis/</id>
+    <link href="https://v.donghongfei.com/head-first-data-analysis/"/>
+    <id>https://v.donghongfei.com/head-first-data-analysis/</id>
     <published>2015-07-21T14:21:15.000Z</published>
     <updated>2025-02-06T10:47:11.297Z</updated>
     
@@ -257,8 +257,8 @@
   
   <entry>
     <title>足球场不同位置职责</title>
-    <link href="http://v.donghongfei.com/football-field-different-position-description/"/>
-    <id>http://v.donghongfei.com/football-field-different-position-description/</id>
+    <link href="https://v.donghongfei.com/football-field-different-position-description/"/>
+    <id>https://v.donghongfei.com/football-field-different-position-description/</id>
     <published>2015-07-14T15:05:22.000Z</published>
     <updated>2018-09-01T12:00:36.000Z</updated>
     
@@ -272,14 +272,14 @@
     
     
     
-    <category term="足球" scheme="http://v.donghongfei.com/tags/%E8%B6%B3%E7%90%83/"/>
+    <category term="足球" scheme="https://v.donghongfei.com/tags/%E8%B6%B3%E7%90%83/"/>
     
   </entry>
   
   <entry>
     <title>春雨医生产品分析报告</title>
-    <link href="http://v.donghongfei.com/chunyuyisheng-product-analysis-report/"/>
-    <id>http://v.donghongfei.com/chunyuyisheng-product-analysis-report/</id>
+    <link href="https://v.donghongfei.com/chunyuyisheng-product-analysis-report/"/>
+    <id>https://v.donghongfei.com/chunyuyisheng-product-analysis-report/</id>
     <published>2015-07-13T16:31:33.000Z</published>
     <updated>2015-09-16T15:57:19.000Z</updated>
     
@@ -299,8 +299,8 @@
   
   <entry>
     <title>为什么我想做产品经理</title>
-    <link href="http://v.donghongfei.com/why-do-i-want-to-be-pm/"/>
-    <id>http://v.donghongfei.com/why-do-i-want-to-be-pm/</id>
+    <link href="https://v.donghongfei.com/why-do-i-want-to-be-pm/"/>
+    <id>https://v.donghongfei.com/why-do-i-want-to-be-pm/</id>
     <published>2015-07-08T22:39:14.000Z</published>
     <updated>2015-07-20T15:40:09.000Z</updated>
     
@@ -318,8 +318,8 @@
   
   <entry>
     <title>无节操没下限段子类社交 app 竞品分析</title>
-    <link href="http://v.donghongfei.com/wujiecao-meixiaxian-shejiao-app-jingpinfenxi/"/>
-    <id>http://v.donghongfei.com/wujiecao-meixiaxian-shejiao-app-jingpinfenxi/</id>
+    <link href="https://v.donghongfei.com/wujiecao-meixiaxian-shejiao-app-jingpinfenxi/"/>
+    <id>https://v.donghongfei.com/wujiecao-meixiaxian-shejiao-app-jingpinfenxi/</id>
     <published>2015-05-26T10:17:56.000Z</published>
     <updated>2015-07-20T15:41:07.000Z</updated>
     
@@ -333,20 +333,20 @@
     
     
     
-    <category term="竞品分析" scheme="http://v.donghongfei.com/tags/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/"/>
+    <category term="竞品分析" scheme="https://v.donghongfei.com/tags/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/"/>
     
-    <category term="糗事百科" scheme="http://v.donghongfei.com/tags/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91/"/>
+    <category term="糗事百科" scheme="https://v.donghongfei.com/tags/%E7%B3%97%E4%BA%8B%E7%99%BE%E7%A7%91/"/>
     
-    <category term="内涵段子" scheme="http://v.donghongfei.com/tags/%E5%86%85%E6%B6%B5%E6%AE%B5%E5%AD%90/"/>
+    <category term="内涵段子" scheme="https://v.donghongfei.com/tags/%E5%86%85%E6%B6%B5%E6%AE%B5%E5%AD%90/"/>
     
-    <category term="冷笑话精选" scheme="http://v.donghongfei.com/tags/%E5%86%B7%E7%AC%91%E8%AF%9D%E7%B2%BE%E9%80%89/"/>
+    <category term="冷笑话精选" scheme="https://v.donghongfei.com/tags/%E5%86%B7%E7%AC%91%E8%AF%9D%E7%B2%BE%E9%80%89/"/>
     
   </entry>
   
   <entry>
     <title>Ionic 集成 jpush(极光)推送之 IOS 篇</title>
-    <link href="http://v.donghongfei.com/Ionic-jpush-IOS/"/>
-    <id>http://v.donghongfei.com/Ionic-jpush-IOS/</id>
+    <link href="https://v.donghongfei.com/Ionic-jpush-IOS/"/>
+    <id>https://v.donghongfei.com/Ionic-jpush-IOS/</id>
     <published>2015-03-08T22:39:14.000Z</published>
     <updated>2015-07-08T22:47:09.000Z</updated>
     
@@ -364,8 +364,8 @@
   
   <entry>
     <title>搬家了</title>
-    <link href="http://v.donghongfei.com/move-on/"/>
-    <id>http://v.donghongfei.com/move-on/</id>
+    <link href="https://v.donghongfei.com/move-on/"/>
+    <id>https://v.donghongfei.com/move-on/</id>
     <published>2015-03-08T15:11:49.000Z</published>
     <updated>2015-07-08T16:37:46.000Z</updated>
     
@@ -384,8 +384,8 @@
   
   <entry>
     <title>解决 ionic 中的 CORS 问题【译】</title>
-    <link href="http://v.donghongfei.com/handling-cors-issues-in-ionic/"/>
-    <id>http://v.donghongfei.com/handling-cors-issues-in-ionic/</id>
+    <link href="https://v.donghongfei.com/handling-cors-issues-in-ionic/"/>
+    <id>https://v.donghongfei.com/handling-cors-issues-in-ionic/</id>
     <published>2015-02-28T12:17:56.000Z</published>
     <updated>2015-07-08T16:37:46.000Z</updated>
     
@@ -404,8 +404,8 @@
   
   <entry>
     <title>Ionic Framework 操作说明书</title>
-    <link href="http://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/"/>
-    <id>http://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/</id>
+    <link href="https://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/"/>
+    <id>https://v.donghongfei.com/The%20Ionic%20Framework%20Cheatsheet/</id>
     <published>2015-02-26T13:10:45.000Z</published>
     <updated>2015-07-08T16:37:46.000Z</updated>
     
@@ -422,8 +422,8 @@
   
   <entry>
     <title>平淡的一天(4)</title>
-    <link href="http://v.donghongfei.com/dull-day-4/"/>
-    <id>http://v.donghongfei.com/dull-day-4/</id>
+    <link href="https://v.donghongfei.com/dull-day-4/"/>
+    <id>https://v.donghongfei.com/dull-day-4/</id>
     <published>2015-02-17T13:10:59.000Z</published>
     <updated>2015-07-08T16:37:46.000Z</updated>
     
